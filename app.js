@@ -1,0 +1,1 @@
+window.Thwip = Ember.Application.create();
